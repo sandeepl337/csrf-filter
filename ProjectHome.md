@@ -1,0 +1,1 @@
+migrated to https://github.com/dernasherbrezon/csrf-filter
